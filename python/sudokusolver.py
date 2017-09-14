@@ -23,6 +23,7 @@ class Square(object):
     
     # By declaring the value a property, we can assure the value of a square doesn't get reassigned
     # after initial assignment without having lots of extra checks in the main body of the code
+
     @property
     def val(self):
         return self._val

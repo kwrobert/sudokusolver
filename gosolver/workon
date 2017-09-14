@@ -1,0 +1,3 @@
+#!/bin/bash
+
+export GOPATH=/Users/Kyle/Projects/sudokusolver/gosolver
