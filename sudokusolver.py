@@ -34,9 +34,6 @@ class Square(object):
         if self._val == 0 or val == 0:
             self._val = val
             self._grid.get_square_opts() 
-        else:
-            pass
-
 
 class Grid(object):
     sections = 3 
